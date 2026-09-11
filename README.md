@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [claude-trade-skills](https://github.com/Om-Talaviya/claude-trade-skills) - Cross-border export trade documentation & India GST export compliance skills (LUT, ICEGATE, RFD-01, EORI, HSN, Incoterms). *By [@Om-Talaviya](https://github.com/Om-Talaviya)*
 
 ### Communication & Writing
 
